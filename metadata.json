@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI",
+  "description": "Optimize your resume for the job you want with AI keyword alignment, impact phrasing, and strict factual accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
